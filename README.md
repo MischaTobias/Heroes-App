@@ -1,8 +1,18 @@
-# React + Vite
+# Heroes SPA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a SPA (Single Page Application) which purpose is to show information about different Marvel and DC heroes.
 
-Currently, two official plugins are available:
+# Content
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Watch live](#watch-live)
+- [Built with](#built-with)
+
+# Watch live
+
+The site is hosted on Github Pages:
+
+- Github Pages: https://mischatobias.github.io/Heroes-App/
+
+# Built with
+
+This app was developed using react 18, using custom hooks, routers, and local data such as heroes images and information.

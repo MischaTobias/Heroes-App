@@ -6,7 +6,7 @@ import { LoginPage } from "../auth";
 export const AppRouter = () => {
   return (
     <>
-      <Routes basename="/HeroesSPA">
+      <Routes>
         <Route path="login" element={<LoginPage />}></Route>
 
         <Route path="/*" element={<HeroesRoutes />}></Route>

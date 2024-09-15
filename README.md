@@ -9,8 +9,9 @@ This is a SPA (Single Page Application) which purpose is to show information abo
 
 # Watch live
 
-The site is hosted on Github Pages:
+The site is hosted on both Netlify and Github Pages:
 
+- Netlify: https://maavtomo-heroes-spa.netlify.app/
 - Github Pages: https://mischatobias.github.io/Heroes-App/
 
 # Built with
